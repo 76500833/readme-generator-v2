@@ -1,8 +1,8 @@
 
-  # Readme Generator
+  # submission
   
   ## Description
-  Generates high quality readme files.
+  submitting assignment
   
   ## Table of Contents
   - [Installation](#installation)
@@ -16,7 +16,7 @@
   n/a
   
   ## Usage
-  Just fallow the prompts to create a readme.
+  n/a
   
   ## Contribution
   n/a
@@ -25,7 +25,7 @@
   n/a
   
   ## License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) MIT License (https://opensource.org/licenses/MIT)
+  ![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg) BSD 3-Clause License (https://opensource.org/licenses/BSD-3-Clause)
   
   ## Questions
   GitHub: [76500833](https://github.com/76500833)
