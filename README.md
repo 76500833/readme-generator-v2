@@ -2,8 +2,9 @@
   # Readme Generator
   
   ## Description
-  Generates high quality readme files.
-  
+  Generates high quality readme files. 
+  ## Video example: 
+  https://drive.google.com/file/d/1KToiTi8FSlFNc78crbxsrWMuUPOxyvxk/view
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
